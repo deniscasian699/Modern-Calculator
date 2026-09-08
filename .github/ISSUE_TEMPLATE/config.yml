@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Bug Report (Web)
+    url: https://bugs.deniscasian.com
+    about: Report bugs via the official web form
+  - name: Support & Help
+    url: mailto:support@deniscasian.com
+    about: Email support for general questions
