@@ -1,45 +1,43 @@
 # Changelog
 
-All notable changes to Modern Calculator will be documented in this file.
+All notable changes to Modern Calculator are documented here.
 
-The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
-and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+## [1.1.0] - 2026-09-15
+
+### Added
+
+- Expanded toolkit with 100+ calculators, converters and practical tools.
+- Algebra, 2D and 3D geometry, finance, health, date & time and everyday-tool categories.
+- Interactive shape previews for 2D figures and 3D solids.
+- Graphs for linear, quadratic and trigonometric functions, with zoom and pan controls.
+- Step-by-step explanations for supported tools.
+- Tool-specific history and reusable calculation history.
+- Favorites, search and category browsing.
+- Light, Dark, AMOLED and System themes.
+- Classic, Rounded and Modern calculator button styles.
+- English, Romanian, Spanish and French interface languages.
+- Global number formats, decimal precision, metric/imperial preferences and DEG/RAD defaults.
+- Home-screen widget, local backup and restore, and copyable results.
+- Currency conversion with rate-refresh status.
+- Google UMP consent flow and Privacy Settings entry point.
+- One-time Remove Ads purchase, restoration and extended local history capacity.
+
+### Changed
+
+- Reworked the Tools and Settings experiences around the expanded feature set.
+- Updated app descriptions and legal documentation to reflect advertising, consent, purchases and local data storage.
 
 ## [1.0.0] - 2026-01-XX
 
 ### Added
-- Initial release on Google Play
-- Standard arithmetic operations (+, −, ×, ÷, %)
-- Scientific functions (sin, cos, tan, cot, log, ln, sqrt, cbrt, factorial)
-- Advanced operations (x², xʸ, π, e)
-- Calculation history with tap-to-reuse
-- DEG / RAD angle mode toggle
-- Live result preview
-- ANS memory for last result
-- Material Design 3 UI
-- Dark theme
-- AdMob advertising integration (banner, interstitial, app open, native)
-- Remove Ads in-app purchase (€2.99 one-time)
-- GDPR & CCPA compliant consent management via Google UMP
-- Privacy Policy and Terms of Use
-- Open-source repository on GitHub
 
-### Fixed
-- Adaptive banner layout shift on app startup
-- Banner hidden under Android navigation bar on phones with gesture navigation
-- Interstitial not triggering after 25 calculations
-- Native ads not appearing in calculation history
-
----
+- Initial Android release.
+- Standard and scientific calculator functions.
+- Local calculation history, live preview and DEG/RAD mode.
+- Google AdMob integration and optional one-time Remove Ads purchase.
 
 ## [Unreleased]
 
 ### Planned
-- Romanian language support
-- Graphing calculator mode
-- Unit converter integration
-- Theme customization (light mode)
 
----
-
-**[Download Modern Calculator](https://play.google.com/store/apps/details?id=ro.studio.moderncalculator)**
+- Continued expansion of calculators, converters and educational tools.
