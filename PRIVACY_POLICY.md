@@ -1,109 +1,58 @@
 # Privacy Policy — Modern Calculator
 
-**Effective date:** July 21, 2026
-**Last updated:** July 21, 2026
-**Developer:** Denis Casian
-**Package:** ro.studio.moderncalculator
-**Contact:** support@deniscasian.com
-
----
+**Effective date:** September 15, 2026  
+**Last updated:** September 15, 2026  
+**Developer:** Denis Casian  
+**Package:** `ro.studio.moderncalculator`  
+**Contact:** [support@deniscasian.com](mailto:support@deniscasian.com)
 
 ## 1. Overview
 
-Modern Calculator is a scientific calculator for Android. All calculations are performed 100% locally on your device. Your math history never leaves your phone. We do not operate servers that collect your calculations.
+Modern Calculator is an Android calculator and toolkit. Calculations, histories, favorites and most preferences are stored locally on your device. We do not operate a server that receives your calculations.
 
-This policy complies with GDPR (EU) 2016/679, UK GDPR, Swiss FADP, CCPA/CPRA, VCDPA, CPA, CTDPA, and other applicable privacy laws.
+The free version uses Google advertising services. A one-time Remove Ads purchase disables advertising features in the app. This policy explains those practices and should be read together with the [Terms of Service](TERMS_OF_SERVICE.md).
 
----
+## 2. Data controller
 
-## 2. Data Controller
+Denis Casian is the data controller for Modern Calculator. Contact: [support@deniscasian.com](mailto:support@deniscasian.com).
 
-**Denis Casian**
-Email: support@deniscasian.com
-App: Modern Calculator (ro.studio.moderncalculator)
-Privacy URL: https://privacypolicy.deniscasian.com/moderncalculator.html
+## 3. Data handled by the app
 
----
+The app stores calculator history, tool history, favorites, display preferences, consent choices and backup data locally on the device. This information is not sent to a Modern Calculator server.
 
-## 3. Data Collected (via Third Parties)
+## 4. Advertising and consent
 
-Modern Calculator itself does not collect personal data. The following data may be collected by Google services:
+The free version may request ads from Google AdMob, including banner, interstitial, app-open and native formats. Google may process information associated with ad delivery and measurement, such as device identifiers, IP address, device and app information, coarse location derived from IP, and ad interactions, subject to Google’s policies and your choices.
 
-| Data Type | Collected By | Purpose |
-|---|---|---|
-| Advertising ID (GAID) | Google AdMob | Serve & measure ads, frequency capping |
-| IP Address, coarse location | Google AdMob | Country-level targeting, security |
-| Device info (model, OS, language) | Google AdMob | Ad compatibility |
-| App interaction (impressions, clicks) | Google AdMob | Ad performance |
-| Purchase token, order ID | Google Play / RevenueCat | Verify Remove Ads purchase |
-| Consent string (TCF 2.2) | Google UMP | Store consent choices |
+Google User Messaging Platform (UMP) is used to present consent or privacy options where required. You can revisit available choices in **Settings → Support → Privacy Settings**.
 
----
+When Remove Ads is active, the app disables its advertising features and does not request ads.
 
-## 4. What We Do NOT Collect
+## 5. Purchases
 
-- Name, email, contacts, messages, files
-- Calculation history — stored only locally via SharedPreferences
-- Precise GPS location
-- Camera, microphone, biometrics
-- Any data that directly identifies you
+Remove Ads is a one-time purchase processed through Google Play and RevenueCat. Payment card details are handled by Google Play, not by the developer. Google Play and RevenueCat may process purchase and entitlement information to complete, verify or restore the purchase.
 
----
+## 6. What we do not collect directly
 
-## 5. Advertising (Google AdMob)
+Modern Calculator does not directly collect your name, email address, contacts, messages, files, camera or microphone data, precise GPS location, biometric data or calculation history.
 
-Free version shows ads from Google AdMob:
-- Adaptive Anchored Banner
-- App Open Ad (3 foreground returns or 3-hour cooldown)
-- Interstitial (6 tab switches or 25 calculations, 3-hour cooldown)
-- Native Ads (Support screen and history, max 2 per list)
+## 7. Retention and deletion
 
-**Premium users:** AdMob SDK is NOT initialized at all when Remove Ads is active. No ad requests, no GAID accessed.
+Local history remains on the device until you clear it or uninstall the app. The free version keeps up to 100 calculator or tool-history entries; Remove Ads unlocks up to 500. Local preferences and consent information can be removed by clearing app data or uninstalling the app. Google and RevenueCat retain data under their own policies.
 
----
+## 8. Your choices and rights
 
-## 6. Consent Management (UMP)
+Depending on your location, you may have rights to access, delete, correct, object to or restrict processing of personal data handled by third parties. You can clear local history, change consent choices in the app and manage Google advertising controls through [My Ad Center](https://myadcenter.google.com/). Contact us to make a privacy request.
 
-We use Google User Messaging Platform (UMP) SDK for TCF 2.2:
-- EEA/UK/CH: Consent form before ad initialization
-- US States: "Do Not Sell or Share" opt-out
-- Change anytime: Support → Privacy Settings
+## 9. Third-party services
 
----
+- [Google Privacy Policy](https://policies.google.com/privacy)
+- [Google AdMob privacy information](https://support.google.com/admob/answer/6128543)
+- [RevenueCat Privacy Policy](https://www.revenuecat.com/privacy)
 
-## 7. Your Rights (GDPR)
+## 10. Changes and contact
 
-- **Access:** History in-app; ad data via Google My Ad Center
-- **Erasure:** Clear History; reset advertising ID in Android Settings
-- **Withdraw Consent:** Support → Privacy Settings
-- **Complaint:** With your local DPA
+We may update this policy as the app, its providers or legal requirements change. The date above identifies the current version.
 
----
-
-## 8. US Privacy Rights (CCPA/CPRA)
-
-- No sale of personal information by us
-- Opt-out via UMP "Do Not Sell or Share"
-- Right to delete: uninstall app and reset advertising ID
-
----
-
-## 9. In-App Purchases
-
-One-time Remove Ads purchase via Google Play Billing and RevenueCat. We receive only a purchase token (no card details).
-
----
-
-## 10. Data Retention
-
-- Calculation History: Local only, until Clear History or uninstall (max 100 entries)
-- Consent String: Stored via UMP until reset or uninstall
-- AdMob logs: Retained by Google per their policy (9-18 months)
-
----
-
-## 11. Contact
-
-Email: support@deniscasian.com
-Bug Reports: https://bugs.deniscasian.com
-Response time: 5 business days (GDPR: within 30 days)
+Privacy questions: [support@deniscasian.com](mailto:support@deniscasian.com)  
+Bug reports: [bugs.deniscasian.com](https://bugs.deniscasian.com)
