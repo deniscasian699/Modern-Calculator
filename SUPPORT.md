@@ -1,39 +1,36 @@
-# Support
+# Support — Modern Calculator
 
-## Report a Bug
-- GitHub Issues: https://github.com/deniscasian699/Modern-Calculator/issues
-- Web Form: https://bugs.deniscasian.com
-- Email: support@deniscasian.com
+## Need help?
 
-## Remove Ads
-1. Open Modern Calculator → Support tab
-2. Tap "Remove Ads — €2.99"
-3. Complete purchase via Google Play
-4. Ads removed instantly
+- **Bug reports and feature requests:** [bugs.deniscasian.com](https://bugs.deniscasian.com)
+- **Email:** [support@deniscasian.com](mailto:support@deniscasian.com)
+- **Source code and issues:** [GitHub repository](https://github.com/deniscasian699/Modern-Calculator)
 
-## Restore Purchase
-1. Open Modern Calculator → Support tab
-2. Tap "Restore Purchase"
-3. Entitlement restored automatically (same Google account)
+Please include the app version, Android version, device model, a short description of the issue and, when helpful, screenshots or steps to reproduce it. Do not include private calculations, payment details or other sensitive information.
 
-## Refunds
-Handled by Google Play: Play Store → Menu → Account → Order history → Request refund.
+## Common help topics
 
-## FAQ
+### Restore Remove Ads
 
-**How do I delete history?**
-History icon (top-right) → Clear History.
+Open **Settings → Support** and choose **Restore Purchase**. Use the same Google Play account that completed the purchase. Restoration requires an internet connection.
 
-**DEG or RAD?**
-Tap the DEG/RAD toggle at the top of the calculator.
+### Change ad privacy choices
 
-**Does it work offline?**
-Yes, 100%. No internet needed.
+Open **Settings → Support → Privacy Settings** to open the available privacy choices again. Availability depends on your region and Google’s consent flow.
 
-**Where is history stored?**
-Locally on device. Never uploaded. Deleted on uninstall.
+### Clear or reuse history
 
-## Contact
-- Email: support@deniscasian.com
-- Bugs: https://bugs.deniscasian.com
-- Response time: 24-48 hours (weekdays)
+History is kept locally on your device. Open History to reuse a result, or choose **Clear History** to remove stored entries. Free accounts keep up to 100 entries; Remove Ads unlocks up to 500.
+
+### Currency rates
+
+Currency conversion needs an internet connection to refresh exchange rates. Other core calculator functions and most tools work locally.
+
+## Response times
+
+We aim to reply within five business days. Privacy requests are handled within the period required by applicable law.
+
+## Legal
+
+- [Privacy Policy](PRIVACY_POLICY.md)
+- [Terms of Service](TERMS_OF_SERVICE.md)
