@@ -4,10 +4,10 @@
 
 # 🧮 Modern Calculator
 
-### Scientific Calculator with History & Functions
+### Scientific Calculator + 100+ Tools
 
-**Clean, powerful calculator for Android.**
-Free. Fast. Open Source.
+**Math, geometry, graphs, converters, finance and more for Android.**
+Free. Fast. Built for everyday problem solving.
 
 [![Download on Google Play](https://img.shields.io/badge/Google%20Play-Download-brightgreen?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=ro.studio.moderncalculator)
 [![Platform](https://img.shields.io/badge/Platform-Android-blue?style=for-the-badge&logo=android&logoColor=white)](https://play.google.com/store/apps/details?id=ro.studio.moderncalculator)
@@ -23,58 +23,66 @@ Free. Fast. Open Source.
 <img src="assets/screenshots/screen1.png" width="180" />
 <img src="assets/screenshots/screen2.png" width="180" />
 <img src="assets/screenshots/screen3.png" width="180" />
-
+<img src="assets/screenshots/screen4.png" width="180" />
+<img src="assets/screenshots/screen5.png" width="180" />
+<img src="assets/screenshots/screen6.png" width="180" />
+<img src="assets/screenshots/screen7.png" width="180" />
+<img src="assets/screenshots/screen8.png" width="180" />
 </div>
 
 ---
 
 ## 🧮 About Modern Calculator
 
-**Modern Calculator** is a clean, powerful scientific calculator for Android. It provides standard and advanced mathematical functions, calculation history, live result preview, and DEG/RAD angle mode switching — all in a fast and elegant interface optimized for any screen size.
+**Modern Calculator** brings a scientific calculator and **100+ tools** into one polished Android app. It is built for everyday calculations, school, work, finance, geometry, conversions and more.
 
-All calculations are performed **100% locally** on your device. Your calculation history never leaves your phone.
+All core calculations and histories are stored locally on your device. No account is required.
 
 > ### 🔔 Free App — Supported by Advertising
-> Modern Calculator is free and funded by **Google AdMob** advertising.
-> **Remove Ads** (one-time purchase) permanently disables all advertising.
-> No subscriptions. No recurring charges.
+> The free version uses **Google AdMob** advertising.  
+> **Remove Ads** is a one-time Google Play purchase that disables advertising features in the app.  
+> No subscription. No recurring charge.
 
 ---
 
 ## ✨ Features
 
-### 🔢 Standard & Scientific Functions
+### 🔢 Scientific calculator
 - **Basic operations:** `+`, `−`, `×`, `÷`, `%`
-- **Scientific functions:** `sin`, `cos`, `tan`, `cot`, `log`, `ln`, `sqrt`, `cbrt`
-- **Advanced:** `x²`, `xʸ`, `!` (factorial), `π`, `e`
-- **Parentheses support** with automatic closing
-- **Live result preview** as you type
-- **DEG / RAD toggle** for angle mode
+- **Scientific functions:** `sin`, `cos`, `tan`, `cot`, `log`, `ln`, roots and factorial
+- **Advanced:** `x²`, `xʸ`, `π`, `e`, parentheses and live result preview
+- **DEG / RAD** angle modes, ANS memory and copyable results
+- **Classic, Rounded and Modern** button styles
 
-### 📜 Calculation History
-- **Unlimited history** — every calculation is saved locally
-- **Tap to reuse** — tap any result to insert it into current expression
-- **Clear anytime** — remove all history with one tap
-- **100% local** — stored in SharedPreferences, never uploaded
+### 🧰 100+ tools in one app
+- **Algebra:** percentages, equations, systems, matrices, trigonometry, statistics, primes and more
+- **2D & 3D Geometry:** shapes, solids, measurements, diagrams, formulas and detailed explanations
+- **Function graphs:** linear, quadratic and trigonometric graphs with zoom and pan
+- **Unit converters:** length, temperature, weight, speed, data, cooking, energy and more
+- **Finance, Health, Date & Time and Other:** currency, loans, tax, BMI, time zones, recipes, electricity and more
 
-### ⚡ Smart Features
-- **ANS memory** — last result automatically available for next calculation
-- **Instant evaluation** — full recursive expression parser with correct operator precedence
-- **Adaptive UI** — button sizes adjust to any screen, from small phones to tablets
-- **Dark theme** — optimized for comfortable use in any lighting
-- **Works offline** — no internet connection needed
+### 📜 History, favorites and widgets
+- **Local histories** for the calculator and tools
+- **100 entries free / 500 with Remove Ads**
+- **Tap to reuse** saved results and clear history whenever you want
+- **Favorites**, search and a configurable home-screen widget
+- **Local backup and restore** for preferences
+
+### 🎨 Built around you
+- **Light, Dark, AMOLED and System** themes
+- **English, Română, Español and Français**
+- Global number format, decimal precision, metric/imperial preferences and a default DEG/RAD setting
+- Most tools work offline. Currency conversion requires an internet connection when rates are refreshed.
 
 ---
 
 ## 💳 Pricing
 
-Modern Calculator is **free** and supported by Google AdMob advertising. The paid tier is optional.
+Modern Calculator is free and ad-supported. The paid option is optional.
 
 | Product | Price | Description |
 |---|:---:|---|
-| 🚫 **Remove Ads** | €2.99 | **One-time purchase.** Permanently removes all advertising. AdMob SDK completely disabled — no banner, interstitial, native, or app open ads. No GAID access. Restoreable via Google Play. |
-
-> ❤️ Remove Ads helps keep Modern Calculator actively developed.
+| 🚫 **Remove Ads** | Shown by Google Play | **One-time purchase.** Disables advertising features in the app, unlocks up to 500 history entries and can be restored with the same Google Play account. No subscription. |
 
 ---
 
@@ -82,16 +90,12 @@ Modern Calculator is **free** and supported by Google AdMob advertising. The pai
 
 | | |
 |---|---|
-| 🔔 | Google AdMob advertising shown to free users |
-| ✅ | Remove Ads tier disables AdMob SDK completely |
-| ✅ | Calculation history stored **only locally** (max 100 entries) |
-| ❌ | No analytics or crash-reporting SDKs |
-| ❌ | No advertising ID accessed for premium users |
-| ❌ | No user profiling of any kind |
-| ❌ | No account or registration required |
-| ❌ | No servers — all calculations performed on-device |
-| ✅ | Purchases managed by Google Play + RevenueCat (anonymous ID only) |
-| ✅ | GDPR, CCPA, and U.S. state privacy law compliant |
+| ✅ | Calculations, histories and preferences are stored locally |
+| ✅ | No Modern Calculator server receives calculation history |
+| ✅ | Consent choices are managed through Google UMP where required |
+| ✅ | Remove Ads disables advertising features |
+| ✅ | No account or registration required |
+| ✅ | Payments are processed by Google Play; RevenueCat helps verify and restore purchases |
 
 → **[Full Privacy Policy](./PRIVACY_POLICY.md)**
 
@@ -109,36 +113,31 @@ Modern Calculator is **free** and supported by Google AdMob advertising. The pai
 
 ## 🛠️ Technical Details
 
-- **Language:** Kotlin 100%
+- **Language:** Kotlin
 - **Minimum SDK:** Android 7.0 (API 24)
-- **Target SDK:** Android 14 (API 34)
 - **UI:** Material Design 3
-- **Expression Parser:** Custom recursive descent parser
-- **Ads:** Google AdMob 23.2.0+ (banner, interstitial, app open, native)
-- **Billing:** RevenueCat SDK + Google Play Billing
-- **Consent:** Google UMP SDK — GDPR & US Privacy compliant
+- **Ads and consent:** Google Mobile Ads SDK + Google UMP
+- **Purchases:** Google Play Billing + RevenueCat
 
 ---
 
 ## 🤝 Contributing
 
-Contributions are welcome! See [CONTRIBUTING.md](./CONTRIBUTING.md) for details.
+Contributions are welcome.
 
-- 🐛 [Report bugs](https://github.com/deniscasian699/Modern-Calculator/issues/new?template=bug_report.md)
-- 💡 [Request features](https://github.com/deniscasian699/Modern-Calculator/issues/new?template=feature_request.md)
-- 🌍 Translate the app
+- 🐛 [Report bugs](https://bugs.deniscasian.com)
+- 💡 [Request features](https://github.com/deniscasian699/Modern-Calculator/issues)
+- 🌍 Help translate the app
 - 🛠️ Submit pull requests
 
 ---
 
-## 📄 Legal Documents
+## 📄 Legal & Support
 
 | Document | Description |
 |---|---|
-| [Privacy Policy](./PRIVACY_POLICY.md) | How we handle your data |
+| [Privacy Policy](./PRIVACY_POLICY.md) | How the app and third-party services handle data |
 | [Terms of Use](./TERMS_OF_SERVICE.md) | Rules for using the app |
-| [License](./LICENSE) | Open-source license |
-| [Security Policy](./SECURITY.md) | How to report vulnerabilities |
 | [Changelog](./CHANGELOG.md) | Version history |
 | [Support](./SUPPORT.md) | Help and contact |
 
@@ -159,8 +158,9 @@ Contributions are welcome! See [CONTRIBUTING.md](./CONTRIBUTING.md) for details.
 
 <div align="center">
 
-Made with ❤️ for students, engineers, and anyone who needs a reliable calculator.
+Made with ❤️ for students, professionals and anyone who needs a reliable calculator.
 
-*© 2026 Modern Calculator. Open Source Software.*
+*© 2026 Modern Calculator.*
 
 </div>
+
