@@ -1,67 +1,54 @@
-# Terms of Use — Modern Calculator
+# Terms of Service — Modern Calculator
 
-**Effective date:** July 21, 2026
-**Last updated:** July 21, 2026
-**Developer:** Denis Casian
-**Package:** ro.studio.moderncalculator
-**Contact:** support@deniscasian.com
+**Effective date:** September 15, 2026  
+**Last updated:** September 15, 2026  
+**Developer:** Denis Casian  
+**Package:** `ro.studio.moderncalculator`  
+**Contact:** [support@deniscasian.com](mailto:support@deniscasian.com)
 
----
+## 1. The app
 
-## 1. The Service
-
-Modern Calculator is a scientific calculator for Android. All calculations are performed locally on your device. The app does not require an account.
+Modern Calculator is an Android calculator and toolkit with scientific calculation, 100+ tools, graphs, geometry, converters and other practical utilities. It does not require an account. Most calculations are performed locally; currency rates require a connection when they are refreshed.
 
 ## 2. Accuracy
 
-The app uses IEEE 754 double-precision arithmetic. Results are for general informational and educational purposes. Verify results before relying on them for critical decisions.
+Results are provided for general informational and educational use. Verify results before using them for financial, engineering, medical, legal, safety-critical or other consequential decisions.
 
-## 3. Advertising
+## 3. Free version and advertising
 
-The free version displays Google AdMob ads (banner, interstitial, app open, native). By using the free version, you consent to ad display as described in the Privacy Policy.
+The free version may display Google AdMob ads, including banner, interstitial, app-open and native ads. Advertising and consent choices are described in the [Privacy Policy](PRIVACY_POLICY.md).
 
 ## 4. Remove Ads
 
-One-time purchase permanently disables AdMob. No subscription, no recurring charge. Restoreable via Google Play on same account.
+Remove Ads is a one-time, non-consumable Google Play purchase. It disables advertising features in the app; it is not a subscription and has no recurring charge. Restore the entitlement using the same Google Play account, subject to Google Play and RevenueCat availability.
 
-## 5. Billing
+## 5. Billing and refunds
 
-Payments processed by Google Play and RevenueCat. Developer does not receive payment card details. Refunds subject to Google Play policy.
+Google Play processes payments. RevenueCat helps verify and restore the entitlement. Refunds are governed by Google Play’s applicable policies. The developer does not receive payment-card details.
 
-## 6. Calculation History
+## 6. Local history and data
 
-Stored locally via SharedPreferences (max 100 entries). Never leaves your device. Deleted on Clear History or uninstall.
+Calculator and tool histories are stored locally. The free version supports up to 100 entries; Remove Ads supports up to 500. Clear History or uninstalling the app removes locally stored history.
 
-## 7. Acceptable Use
+## 7. Acceptable use
 
-Do not reverse engineer, bypass purchase verification, or redistribute the app without permission.
+Do not misuse the app, reverse engineer or circumvent purchase verification, or redistribute the app or its branding without permission where prohibited by law.
 
-## 8. Intellectual Property
+## 8. Intellectual property
 
-Source code, design, and branding owned by Denis Casian. Mathematical formulas are not claimed as exclusive property.
+The app’s code, design, graphics and branding belong to Denis Casian or are used under applicable licenses. Mathematical formulas are not claimed as exclusive property.
 
-## 9. Third-Party Services
+## 9. Third-party services
 
-Google AdMob, Google Play Billing, RevenueCat, Google UMP. Governed by their own terms.
+The app may rely on Google AdMob, Google UMP, Google Play Billing, RevenueCat and exchange-rate services. Their services are governed by their own terms and privacy policies.
 
-## 10. Disclaimer
+## 10. Disclaimer and liability
 
-Provided "as is" without warranties. Nothing excludes rights that cannot legally be excluded.
+The app is provided "as is" and "as available" to the extent permitted by law. Nothing in these terms removes rights that cannot legally be excluded. To the extent permitted by law, the developer is not liable for indirect or consequential loss arising from use of the app, its results or third-party services.
 
-## 11. Limitation of Liability
+## 11. Changes and contact
 
-Developer is not liable for indirect or consequential loss from calculation results or third-party services, to the extent permitted by law.
+We may update these terms as the app, its providers or legal requirements change. The date above identifies the current version.
 
-## 12. Privacy
-
-See [Privacy Policy](./PRIVACY_POLICY.md).
-
-## 13. Changes
-
-Terms may be updated. "Last updated" date identifies current version.
-
-## 14. Contact
-
-Support: https://bugs.deniscasian.com
-Email: support@deniscasian.com
-Privacy: https://privacypolicy.deniscasian.com/moderncalculator.html
+Support: [support@deniscasian.com](mailto:support@deniscasian.com)  
+Bug reports: [bugs.deniscasian.com](https://bugs.deniscasian.com)
