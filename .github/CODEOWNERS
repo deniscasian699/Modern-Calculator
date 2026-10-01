@@ -1,0 +1,8 @@
+# Modern Calculator - Code Owners
+
+* @deniscasian699
+
+# Specific paths
+/app/src/main/kotlin/** @deniscasian699
+/app/src/main/res/** @deniscasian699
+*.md @deniscasian699
